@@ -1,0 +1,2 @@
+#!/bin/bash
+arduino-serial -b 9600 -p /dev/tty.wchusbserial1410 -s bd
